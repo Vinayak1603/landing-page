@@ -12,5 +12,9 @@ This is a landing page for XTRAVELS, a fictional tour and travel agency. It show
 
 To view the landing page, simply open the `landing.html` file in your web browser.
 
+## Screenshots
+
+![Screenshot](output.png)
+
 
 
